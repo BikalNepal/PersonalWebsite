@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Bikal Nepal",
+    "occupation":"Web and Mobile Developer",
+    "description":"I am *insert self praises*",
+    "image":"profilepic.jpg",
+    "bio":"I like technology!",
+    "contactmessage":"Feel free to contact me!",
+    "email": "bikalnepalsgs4@gmail.com",
+    "phone": "009779845351551",
+    "address":{
+      "street":"Saibaba Marg, Koteshwor",
+      "city":"Kathmandu",
+      "state":"Bagmati",
+      "zip": "44600"
+    },
+    "website": "http://www.bikalnepal.com",
+    "resumedownload":"http://bikalnepal.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/bikal.nepal",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/bik_npl11",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/bikalnepal",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/bikalnepal/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/bikalnepal",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/bikalnepal",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Tribhuvan University",
+        "degree":"Bachelors in Computer Engineering",
+        "graduated":"December 2016",
+        "description":"Completed Computer Engineering...(TBW)"
+      },
+      {
+        "school":"GoldenGate International College",
+        "degree":"+2 Science",
+        "graduated":"August 2012",
+        "description":"Physics, Computer, Maths blablabla"
+      }
+    ],
+    "work":[
+      {
+        "company":"3Monk Pvt. Ltd., Baneshwar, Nepal",
+        "title":"Java Developer ",
+        "years":"bla - bla",
+        "description":"blabla"
+      },
+      {
+        "company":"TechStack Solutions, Arouca, Trinidad and Tobago",
+        "title":"React Developer",
+        "years":"bla - bla",
+        "description":"blabla"
+      }
+    ],
+    "skills":[
+      {
+        "name":"AngularJS",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Node",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart Brain",
+        "category":"Detects faces in an image",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.blabla.com"
+      },
+      {
+        "title":"blabla",
+        "category":"bla",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.blu.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Detail Oriented",
+        "user":"Bill gates"
+      },
+      {
+        "text":"Bikal Nepal is a good developer",
+        "user":"Steve Jobs"
+      }
+    ]
+  }
+}
